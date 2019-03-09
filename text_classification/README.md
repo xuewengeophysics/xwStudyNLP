@@ -1,7 +1,8 @@
 # Text Classification
 
 ## TextCNN
-使用卷积神经网络以及循环神经网络进行中文文本分类
+
+### 一、使用卷积神经网络以及循环神经网络进行中文文本分类
 
 文献1：[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 
