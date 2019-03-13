@@ -58,11 +58,6 @@ def read_category():
     return categories, cat_to_id
 
 
-def to_words(content, words):
-    """将id表示的内容转换为文字"""
-    return ''.join(words[x] for x in content)
-
-
 def process_file(filename, word_to_id, cat_to_id, max_length=600):
     """将数据集从文字转换为固定长度的id序列表示"""
     contents, labels = read_file(filename)
@@ -77,6 +72,11 @@ def process_file(filename, word_to_id, cat_to_id, max_length=600):
     y_pad = kr.utils.to_categorical(label_id, num_classes=len(cat_to_id))  # 将标签转换为one-hot表示
 
     return x_pad, y_pad
+
+
+def to_words(content, words):
+    """将id表示的内容转换为文字"""
+    return ''.join(words[x] for x in content)
 
 
 def batch_iter(x, y, batch_size=64):
