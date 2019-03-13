@@ -5,7 +5,8 @@
 ## 数据预处理流程
 ![image](https://github.com/xuewengeophysics/xwStudyNLP/blob/master/text_classification/TextCNN/images/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.png)
 
-
+## TextCNN模型网络结构
+![image](https://github.com/xuewengeophysics/xwStudyNLP/blob/master/text_classification/TextCNN/images/TextCNN%E6%A8%A1%E5%9E%8B.png)
 
 ## 参考资料
 
