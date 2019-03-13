@@ -14,7 +14,7 @@
         
         content = scrapy.Field() # 文档内容
         
-3. 编写爬取网站的 spider 并提取 Item。创建蜘蛛文件：
+3. 编写爬取网站的 spider 并提取 Item。创建并修改spiders中蜘蛛文件tianya_ly.py：
 
     scrapy genspider tianya_ly tianya.cn
    
