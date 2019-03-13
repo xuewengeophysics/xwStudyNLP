@@ -4,7 +4,7 @@
 
 1. 创建一个Scrapy项目。
 
-    !scrapy startproject tianya_textclassify
+    scrapy startproject tianya_textclassify
     
 2. 定义提取的Item。在items.py文件定义想要提取的实体：
 
