@@ -23,7 +23,7 @@ def read_file(filename):
 
 
 def build_vocab(train_dir, vocab_dir, vocab_size=5000):
-    """根据训练集构建词汇表，存储"""
+    """根据训练集构建词汇表，使用字符级的表示"""
     data_train, _ = read_file(train_dir)
 
     all_data = []
@@ -39,7 +39,7 @@ def build_vocab(train_dir, vocab_dir, vocab_size=5000):
 
 
 def read_vocab(vocab_dir):
-    """读取词汇表"""
+    """读取词汇表，转换为{词: id}表示"""
     # words = open_file(vocab_dir).read().strip().split('\n')
     with open(vocab_dir,  'r', encoding='utf-8', errors='ignore') as fp:
         words = [_.strip() for _ in fp.readlines()]    # 删除末尾的"\n"
@@ -48,7 +48,7 @@ def read_vocab(vocab_dir):
 
 
 def read_category():
-    """读取分类目录，固定"""
+    """读取分类目录，转换为{类别: id}表示"""
     categories = ['体育', '财经', '房产', '家居', '教育', '科技', '时尚', '时政', '游戏', '娱乐']
 
     categories = [x for x in categories]
@@ -64,7 +64,7 @@ def to_words(content, words):
 
 
 def process_file(filename, word_to_id, cat_to_id, max_length=600):
-    """将文件转换为id表示"""
+    """将数据集从文字转换为固定长度的id序列表示"""
     contents, labels = read_file(filename)
 
     data_id, label_id = [], []
@@ -80,7 +80,7 @@ def process_file(filename, word_to_id, cat_to_id, max_length=600):
 
 
 def batch_iter(x, y, batch_size=64):
-    """生成批次数据"""
+    """为神经网络准备经过shuffle的批次训练数据"""
     data_len = len(x)
     num_batch = int((data_len - 1) / batch_size) + 1    # 训练批次
 
@@ -88,7 +88,7 @@ def batch_iter(x, y, batch_size=64):
     x_shuffle = x[indices]
     y_shuffle = y[indices]
 
-    for i in range(num_batch):    # 生成批训练数据
+    for i in range(num_batch):    # 生成批次训练数据
         start_id = i * batch_size
         end_id = min((i + 1) * batch_size, data_len)
         # 类似return的关键字，返回生成器；调用此函数时，函数内部的代码并不立马执行，当使用for进行迭代时代码才会执行
