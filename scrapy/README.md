@@ -2,10 +2,12 @@
 
 ## 使用Scrapy实现爬虫的主要步骤：
 
-1. 创建一个Scrapy项目。 
-    scrapy startproject tianya_textclassify 
+1. 创建一个Scrapy项目。
+
+    scrapy startproject tianya_textclassify
     
-2. 定义提取的Item。在items.py文件定义想要提取的实体： 
+2. 定义提取的Item。在items.py文件定义想要提取的实体：
+
     class TianyaTextclassifyItem(scrapy.Item): 
         label   = scrapy.Field() # 文档标签 
         content = scrapy.Field() # 文档内容 
