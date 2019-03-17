@@ -19,3 +19,9 @@
 源码1：[dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
 
 源码2：[gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)
+
+源码3：[cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)
+
+源码4：[NLPxiaoxu/Easy_TextCnn_Rnn](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn)
+
+源码5：[YCG09/tf-text-classification](https://github.com/YCG09/tf-text-classification)
