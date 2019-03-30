@@ -13,3 +13,5 @@
 源码1：[brightmart/text_classification/a07_Transformer](https://github.com/brightmart/text_classification/tree/master/a07_Transformer)
 
 源码2：[pengming617/text_classification/model/transformer](https://github.com/pengming617/text_classification/tree/master/model/transformer)
+
+源码3：[jiangxinyang227/textClassifier/Transformer](https://github.com/jiangxinyang227/textClassifier/tree/master/Transformer)
