@@ -8,4 +8,6 @@
 
 ## 参考资料
 
-1 [Jay Alammar](https://jalammar.github.io/)
+博客1：[Jay Alammar](https://jalammar.github.io/)
+
+博客2：[Sebastian Ruder](http://ruder.io/)
