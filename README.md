@@ -5,3 +5,7 @@
 
 ## NLP常用算法
 ![image](https://github.com/xuewengeophysics/xwStudyNLP/blob/master/images/NLP%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95.jpg)
+
+## 参考资料
+
+1 [Jay Alammar](https://jalammar.github.io/)
