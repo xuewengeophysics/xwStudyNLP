@@ -6,7 +6,7 @@
 
 博客1：[Jay Alammar Blog/The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer)
 
-博客2：[机器翻译模型Transformer代码详细解析](https://blog.csdn.net/luoyexuge/article/details/83339334)
+博客2：[机器翻译模型Transformer代码详细解析](https://blog.csdn.net/mijiaoxiaosan/article/details/74909076)
 博客2对应源码：[Kyubyong/transformer](https://github.com/Kyubyong/transformer)
 
 博客3：[文本分类实战之Transformer模型](https://www.cnblogs.com/jiangxinyang/p/10210813.html)
