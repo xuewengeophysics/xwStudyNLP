@@ -2,7 +2,7 @@
 
 ## TextCNN
 
-## RNN
+## Transformer
 
 ## 参考资料
 
