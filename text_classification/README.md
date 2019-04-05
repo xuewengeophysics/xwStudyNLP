@@ -1,5 +1,6 @@
 # Text Classification
 
+
 本文是参考gaussic大牛的“text-classification-cnn-rnn”后，基于同样的数据集，嵌入词级别所做的CNN文本分类实验结果，gaussic大牛是基于字符级的；<br><br>
 进行了第二版的更新：1.加入不同的卷积核；2.加入正则化；3.词仅为中文或英文，删掉文本中数字、符号等类型的词；4.删除长度为1的词；<br>
 <br>
@@ -9,6 +10,14 @@
 
 本实验的主要目是为了探究基于Word2vec训练的词向量嵌入CNN后，对模型的影响，实验结果得到的模型在验证集达到97.1%的效果，gaussic大牛为94.12%；<br><br>
 更多详细可以阅读gaussic大牛的博客：[text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)<br><br>
+
+0 参考资料
+=
+1 [徐亮brightmart/text_classification](https://github.com/brightmart/text_classification)<br><br>
+2 [cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br><br>
+3 [文本分类实战--从TFIDF到深度学习CNN系列效果对比（附代码）](https://github.com/lc222/text_classification_AI100)<br><br>
+4 [gaussic/CNN-RNN中文文本分类](https://github.com/gaussic/text-classification-cnn-rnn)<br><br>
+5 [clayandgithub/基于cnn的中文文本分类算法](https://github.com/clayandgithub/zh_cnn_text_classify)<br><br>
 
 1 环境
 =
@@ -69,8 +78,4 @@ python text_predict.py，提供模型的预测<br><br>
 
 ## Transformer
 
-## 参考资料
 
-源码1：[徐亮brightmart/text_classification](https://github.com/brightmart/text_classification)
-
-源码2：[cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)
