@@ -13,11 +13,11 @@
 
 0 参考资料
 =
-1 [徐亮brightmart/text_classification](https://github.com/brightmart/text_classification)<br><br>
-2 [cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br><br>
-3 [文本分类实战--从TFIDF到深度学习CNN系列效果对比（附代码）](https://github.com/lc222/text_classification_AI100)<br><br>
-4 [gaussic/CNN-RNN中文文本分类](https://github.com/gaussic/text-classification-cnn-rnn)<br><br>
-5 [clayandgithub/基于cnn的中文文本分类算法](https://github.com/clayandgithub/zh_cnn_text_classify)<br><br>
+1 [徐亮brightmart/text_classification](https://github.com/brightmart/text_classification)<br>
+2 [cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br>
+3 [文本分类实战--从TFIDF到深度学习CNN系列效果对比（附代码）](https://github.com/lc222/text_classification_AI100)<br>
+4 [gaussic/CNN-RNN中文文本分类](https://github.com/gaussic/text-classification-cnn-rnn)<br>
+5 [clayandgithub/基于cnn的中文文本分类算法](https://github.com/clayandgithub/zh_cnn_text_classify)<br>
 
 1 环境
 =
