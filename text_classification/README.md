@@ -18,6 +18,7 @@
 3 [文本分类实战--从TFIDF到深度学习CNN系列效果对比（附代码）](https://github.com/lc222/text_classification_AI100)<br>
 4 [gaussic/CNN-RNN中文文本分类](https://github.com/gaussic/text-classification-cnn-rnn)<br>
 5 [clayandgithub/基于cnn的中文文本分类算法](https://github.com/clayandgithub/zh_cnn_text_classify)<br>
+6 [pengming617/text_classification](https://github.com/pengming617/text_classification)<br>
 
 1 环境
 =
