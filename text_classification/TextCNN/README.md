@@ -1,5 +1,15 @@
 # TextCNN
 
+本文是参考gaussic大牛的“text-classification-cnn-rnn”后，基于同样的数据集，嵌入词级别所做的CNN文本分类实验结果，gaussic大牛是基于字符级的；<br><br>
+进行了第二版的更新：1.加入不同的卷积核；2.加入正则化；3.词仅为中文或英文，删掉文本中数字、符号等类型的词；4.删除长度为1的词；<br>
+<br>
+训练结果较第一版有所提升，验证集准确率从96.5%达到97.8%，测试准备率从96.7%达到97.2%。<br>
+<br>
+
+
+本实验的主要目是为了探究基于Word2vec训练的词向量嵌入CNN后，对模型的影响，实验结果得到的模型在验证集达到97.8%的效果，gaussic大牛为94.12%；<br><br>
+更多详细可以阅读gaussic大牛的博客：[text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)<br><br>
+
 使用TextCNN进行中文文本分类
 
 ## 数据预处理流程
