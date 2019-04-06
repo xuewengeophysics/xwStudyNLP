@@ -20,7 +20,7 @@ cnews.val.txt: 验证集(500*10)<br>
 
 cnews.test.txt: 测试集(1000*10)<br>
 
-训练所用的数据，以及训练好的词向量可以下载：<br>
+数据下载：训练数据以及训练好的词向量：<br>
 链接: [https://pan.baidu.com/s/1DOgxlY42roBpOKAMKPPKWA](https://pan.baidu.com/s/1DOgxlY42roBpOKAMKPPKWA)<br>
 密码: up9d<br><br>
 
