@@ -10,18 +10,12 @@
 
 ## 参考资料
 
-文献1：[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
-
-文献2：[Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)
-
-博客1：大牛dennybritz的[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-
-源码1：[dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
-
-源码2：[gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)
-
-源码3：[cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)
-
-源码4：[NLPxiaoxu/Easy_TextCnn_Rnn](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn)
-
-源码5：[YCG09/tf-text-classification](https://github.com/YCG09/tf-text-classification)
+1 [文献Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)<br>
+2 [文献Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)<br>
+3 大牛dennybritz的博客[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)<br>
+4 [源码dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)<br>
+5 [源码gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)<br>
+6 [源码cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br>
+7 [源码NLPxiaoxu/Easy_TextCnn_Rnn](https://github.com/NLPxiaoxu/Easy_TextCnn_Rnn)<br>
+8 [源码YCG09/tf-text-classification](https://github.com/YCG09/tf-text-classification)<br>
+9 [源码pengming617/text_classification](https://github.com/pengming617/text_classification)<br>
