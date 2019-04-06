@@ -12,7 +12,7 @@
 
 1 [文献Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)<br>
 2 [文献Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)<br>
-3 大牛dennybritz的博客[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)<br>
+3 [大牛dennybritz的博客Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)<br>
 4 [源码dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)<br>
 5 [源码gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)<br>
 6 [源码cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br>
