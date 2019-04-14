@@ -8,4 +8,4 @@
 4  [博客Guillaume Genthial blog/Sequence Tagging with Tensorflow](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 对应源码：[guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging)<br>
 5  [源码liuhuanyong/MedicalNamedEntityRecognition](https://github.com/liuhuanyong/MedicalNamedEntityRecognition)<br>
-
+6  [源码zyh961117/CCKS-2017-task2](https://github.com/zyh961117/CCKS-2017-task2)<br>
