@@ -2,9 +2,10 @@
 
 ## 参考资料
 
-源码1：[Determined22/zh-NER-TF](https://github.com/Determined22/zh-NER-TF)<br><br>
-源码2：[jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM)<br><br>
-源码3：[guillaumegenthial/tf_ner](https://github.com/guillaumegenthial/tf_ner)<br><br>
-博客1：[Guillaume Genthial blog/Sequence Tagging with Tensorflow](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
-博客1对应源码：[guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging)<br><br>
+1  [源码Determined22/zh-NER-TF](https://github.com/Determined22/zh-NER-TF)<br>
+2  [源码jiesutd/LatticeLSTM](https://github.com/jiesutd/LatticeLSTM)<br>
+3  [源码guillaumegenthial/tf_ner](https://github.com/guillaumegenthial/tf_ner)<br>
+4  [博客Guillaume Genthial blog/Sequence Tagging with Tensorflow](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
+对应源码：[guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging)<br>
+5  [源码liuhuanyong/MedicalNamedEntityRecognition](https://github.com/liuhuanyong/MedicalNamedEntityRecognition)<br>
 
