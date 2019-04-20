@@ -2,6 +2,10 @@
 
 0 参考资料
 =
+### 1、论文
+1 [[Kamran Kowsari et al. 2019]Text Classification Algorithms: A Survey](https://arxiv.org/abs/1904.08067)<br>
+
+### 2、代码
 1 [徐亮brightmart/text_classification](https://github.com/brightmart/text_classification)<br>
 2 [cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)<br>
 3 [文本分类实战--从TFIDF到深度学习CNN系列效果对比（附代码）](https://github.com/lc222/text_classification_AI100)<br>
