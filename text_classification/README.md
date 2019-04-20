@@ -9,6 +9,7 @@
 5 [clayandgithub/基于cnn的中文文本分类算法](https://github.com/clayandgithub/zh_cnn_text_classify)<br>
 6 [pengming617/text_classification](https://github.com/pengming617/text_classification)<br>
 7 [roomylee/rcnn-text-classification](https://github.com/roomylee/rcnn-text-classification)<br>
+8 [jiangxinyang227/textClassifier](https://github.com/jiangxinyang227/textClassifier)<br>
 
 1 数据集
 =
