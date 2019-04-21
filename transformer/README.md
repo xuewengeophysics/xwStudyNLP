@@ -12,7 +12,7 @@
 博客3：[文本分类实战之Transformer模型](https://www.cnblogs.com/jiangxinyang/p/10210813.html)
 博客3对应源码：[jiangxinyang227/textClassifier/Transformer](https://github.com/jiangxinyang227/textClassifier/tree/master/Transformer)
 
-博客4：[张俊林/放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://www.cnblogs.com/jiangxinyang/p/10210813.html)https://zhuanlan.zhihu.com/p/54743941
+博客4：[张俊林/放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 
 源码1：[brightmart/text_classification/a07_Transformer](https://github.com/brightmart/text_classification/tree/master/a07_Transformer)
 
