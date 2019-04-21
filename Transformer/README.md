@@ -2,7 +2,7 @@
 
 ## 参考资料
 
-论文：[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)<br>
+论文1：[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)<br>
 博客1：[Jay Alammar/The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer)<br>
 博客2：[Miguel Romero Calvo/Dissecting BERT Part 1: The Encoder](https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3)<br>
 博客3：[harvardnlp/The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)<br>
