@@ -15,7 +15,8 @@
 博客6：[文本分类实战之Transformer模型](https://www.cnblogs.com/jiangxinyang/p/10210813.html)
 博客6对应源码：[jiangxinyang227/textClassifier/Transformer](https://github.com/jiangxinyang227/textClassifier/tree/master/Transformer)<br>
 
-源码1：[brightmart/text_classification/a07_Transformer](https://github.com/brightmart/text_classification/tree/master/a07_Transformer)
-源码2：[pengming617/text_classification/model/transformer](https://github.com/pengming617/text_classification/tree/master/model/transformer)<br>
+源码1：https://github.com/brightmart/text_classification/tree/master/a07_Transformer<br>
+源码2：https://github.com/pengming617/text_classification/tree/master/model/transformer<br>
+源码3：https://github.com/SamLynnEvans/Transformer  [对应博客Samuel Lynn-Evans/How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)  [大数据文摘/百闻不如一码！手把手教你用Python搭一个Transformer](https://mp.weixin.qq.com/s/zLptc5bvo3rY_Jvu-rA6Pg)<br>
 
 
