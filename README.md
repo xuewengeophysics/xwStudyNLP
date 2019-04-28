@@ -13,5 +13,6 @@ NLP常用算法
 1 [大牛Jay Alammar的博客](https://jalammar.github.io/)<br>
 2 [大牛Sebastian Ruder博客](http://ruder.io/)<br>
 
-## 语料库
+## 中文NLP
 1 [中文自然语言处理相关资料crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)<br>
+2 [大规模中文自然语言处理语料brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)<br>
